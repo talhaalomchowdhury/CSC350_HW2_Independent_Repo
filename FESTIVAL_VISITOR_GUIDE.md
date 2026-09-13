@@ -42,7 +42,7 @@
 
 ## Visitor Reminder
 
->> Stay hydrated
+>>Stay hydrated
 
 ## GitHub Verification
 
