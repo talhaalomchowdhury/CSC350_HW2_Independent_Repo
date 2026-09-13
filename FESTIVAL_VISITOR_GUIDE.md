@@ -2,51 +2,52 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Talha Alom Chowdhury
+- Course and section: CSC 350
+- Date: 09/13/2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: main
+- Personal Homework 2 GitHub URL: https://github.com/talhaalomchowdhury/CSC350_HW2_Independent_Repo.git
+- Starting `git status`: clean
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: Fall Fest
+- Location: Fiterman Hall
+- Intended audience: Student
+- Theme: Starting fest of the fall 
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   >> Local directory
 
 2. Has it been staged or committed?
 
-   [Your answer]
+   >> NO
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Paid Parking
+- Entrance or meeting location: Room F1005
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. Wheelchair-accessible paths connect
+2. A designated quiet area for break.
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+>> Stay hydrated
 
 ## GitHub Verification
 
 [Replace this line on GitHub—not in VS Code]
+
 
 ## Commit Evidence
 
