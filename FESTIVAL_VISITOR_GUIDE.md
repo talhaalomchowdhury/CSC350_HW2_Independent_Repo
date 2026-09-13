@@ -46,7 +46,7 @@
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+I verified my personal Homework 2 repository.
 
 
 ## Commit Evidence
