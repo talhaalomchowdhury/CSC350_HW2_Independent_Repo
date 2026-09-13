@@ -53,16 +53,17 @@ I verified my personal Homework 2 repository.
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
-| Personalized guide | [ID] | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Personalized guide | [bd125dd] | `docs: personalize festival visitor guide` |
+| Visitor access information | [976d8b0] | `docs: add visitor access information` |
+| GitHub verification | [3152b17] | `docs: verify independent homework on GitHub` |
+| Final reflection | [7c9e4dd] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   >> Saving a file means update to local directory. Commiting means recording changes on staged area with a massage of 
+   >> the cha
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
